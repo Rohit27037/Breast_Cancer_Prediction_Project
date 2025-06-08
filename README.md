@@ -46,10 +46,14 @@ We use the dataset **`Cancer_Data.csv`** for this task.
 
 - The Logistic Regression model achieved **high accuracy**, demonstrating its effectiveness in classifying breast tumors using basic diagnostic features.
 
-## 📎 Requirements
 
-Make sure to install the following libraries before running the notebook:
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+**Author**: Rohitahswa Mishra  
+
 
